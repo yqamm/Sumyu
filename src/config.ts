@@ -94,7 +94,7 @@ export const NAV_SECTIONS = [
 
 // ========== 社交链接 (Hero 区域展示) ==========
 export const SOCIAL_LINKS = [
-  { name: 'GitHub', url: 'https://github.com/qitinyu', icon: 'ri:github-fill' },
+  { name: 'GitHub', url: 'https://github.com/yqamm', icon: 'ri:github-fill' },
   { name: 'Gitee', url: 'https://gitee.com/qi-tingyu', icon: 'simple-icons:gitee' },
   { name: 'Gitcode', url: 'https://gitcode.com/user/YQAMM/repos', icon: 'ri:codepen-line' },
   { name: 'Email', url: 'mailto:484894496@qq.com', icon: 'ri:mail-line' },
@@ -127,7 +127,7 @@ export const THEME_COLORS = [
 // ========== Live2D 看板娘配置 ==========
 export const LIVE2D = {
   enabled: true,
-  modelPath: 'https://cdn.jsdmirror.com/gh/qitinyu/yqlive2@v1.0.2/models/cmtt/cmtt.model3.json',
+  modelPath: 'https://cdn.jsdmirror.com/gh/yqamm/yqlive2@v1.0.2/models/cmtt/cmtt.model3.json',
   modelName: 'cmtt',
   bottom: 0,
   left: 10,
@@ -137,19 +137,19 @@ export const LIVE2D = {
   scale: 0.15,
   mobileOff: false,
   modelList: [
-    { name: 'wwa', path: 'https://cdn.jsdmirror.com/gh/qitinyu/yqlive2@v1.0.2/models/wwa/wwa.model3.json' },
-    { name: 'cmtt', path: 'https://cdn.jsdmirror.com/gh/qitinyu/yqlive2@v1.0.2/models/cmtt/cmtt.model3.json' },
-    { name: 'jk', path: 'https://cdn.jsdmirror.com/gh/qitinyu/yqlive2@v1.0.2/models/jk/jk.model3.json' },
-    { name: 'girl', path: 'https://cdn.jsdmirror.com/gh/qitinyu/yqlive2@v1.0.2/models/girl/girl.model3.json' },
+    { name: 'wwa', path: 'https://cdn.jsdmirror.com/gh/yqamm/yqlive2@v1.0.2/models/wwa/wwa.model3.json' },
+    { name: 'cmtt', path: 'https://cdn.jsdmirror.com/gh/yqamm/yqlive2@v1.0.2/models/cmtt/cmtt.model3.json' },
+    { name: 'jk', path: 'https://cdn.jsdmirror.com/gh/yqamm/yqlive2@v1.0.2/models/jk/jk.model3.json' },
+    { name: 'girl', path: 'https://cdn.jsdmirror.com/gh/yqamm/yqlive2@v1.0.2/models/girl/girl.model3.json' },
   ],
 };
 
 // ========== 站点公告 ==========
 export const ANNOUNCEMENTS = [
   '欢迎来到 Sumyu 的个人博客！',
-  '原神7.2版本11.4日全平台更新！',
+  '星布谷地将于12.4日全平台公测！',
   'MuYan更新至V1.3.7,欢迎下载体验！',
-   '天气渐凉，记得添衣哦！',
+   'MuLi已更新至V2.0.9版本！',
   '博客已经接入萌ICP备20268826号,请放心访问！',
 ];
 
@@ -173,7 +173,7 @@ export const MUSIC = {
     url: 'https://dav.jianguoyun.com/dav/',
     username: '484894496@qq.com',
     password: 'a3ajk3mke2s59mk5',
-    directory: '/Sumy Music',
+    directory: '/MuWan',
     publicUrl: '',
   },
 };
@@ -194,7 +194,7 @@ export const COMMENT = {
     fallbackCdn: 'https://registry.npmmirror.com/twikoo@{version}/files/dist/twikoo.min.js',
   },
   giscus: {
-    repo: 'qitinyu/yuami-giscus',
+    repo: 'yuqi/yuami-giscus',
     repoId: 'R_kgDOSmXsaA',
     category: 'Announcements',
     categoryId: 'DIC_kwDOSmXsaM4C9uxi',
