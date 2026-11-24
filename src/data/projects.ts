@@ -63,14 +63,14 @@ export const projects: ProjectItem[] = [
   { name: 'MuLi-沐哩',
     tag: 'Mulimuli',
     desc: '参考Piliplus+bilibili的鸿蒙原生第三方B站播放器',
-    cover: 'https://img.yqamm.top/Website/muli1.webp',
+    cover: 'https://img.yqamm.top/Website/app_logo.webp',
     url: '#',
     github: 'https://github.com/qitinyu/MuLi' },
     
   { name: '胡桃-手风琴',
     tag: 'HTML+CSS+JS',
     desc: 'HTML+CSS+JS 制作的简易网页',
-    cover: '/hero/htsfq.webp',
-    url: 'https://qitinyu.github.io/hutao-sfq/',
-    github: 'https://github.com/qitinyu/hutao-sfq' },
+    cover: 'https://img.yqamm.top/Website/hutao.webp',
+    url: 'https://yqamm.github.io/hutao-sfq/',
+    github: 'https://github.com/yqamm/hutao-sfq' },
 ];
