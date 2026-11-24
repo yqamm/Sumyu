@@ -19,7 +19,7 @@ export const projects: ProjectItem[] = [
     desc: '基于 Astro 仿制的樱花主题博客，支持加密文章、5 套主题色、Live2D 看板娘。',
     cover: 'https://img.yqamm.top/Website/sumyu.webp',
     url: 'https://yqamm.top/',
-    github: 'https://github.com/yqamm/Sumyu',
+    github: 'https://github.com/qitinyu/Sumyu',
   },
 
   { name: '雨祁导航',
@@ -27,7 +27,7 @@ export const projects: ProjectItem[] = [
     desc: '个人导航页',
     cover: 'https://img.yqamm.top/Website/zy.webp',
     url: 'https://yuqi.yqamm.top/',
-    github: 'https://github.com/yqamm/yuqi' 
+    github: 'https://github.com/qitinyu/yuqi' 
   },
 
   { name: 'Yuamli',
@@ -35,7 +35,7 @@ export const projects: ProjectItem[] = [
     desc: '基于NEXTJS 16的轻量级留言系统 ，支持第三方 OAuth 登录、邮箱游客登录、嵌套回复、Markdown 渲染、后台管理与数据备份',
     cover: 'https://img.yqamm.top/Website/yuamli.webp',
     url: 'https://yuamli.yqamm.top/',
-    github: 'https://github.com/yqamm/Yuami/' 
+    github: 'https://github.com/qitinyu/Yuami/' 
   },
 
   { name: 'YQIMG',
@@ -51,26 +51,26 @@ export const projects: ProjectItem[] = [
     desc: '基于Arkts+ArkUI的鸿蒙原生轻量化音乐播放器，支持JSON+JS音源导入，全平台免费畅听',
     cover: 'https://img.yqamm.top/Website/muwan1.webp',
     url: '#',
-    github: 'https://github.com/yqamm/MuWan' },
+    github: 'https://github.com/qitinyu/MuWan' },
 
   { name: 'MuYan-沐言',
     tag: 'TXT+MARKDOWN',
     desc: '鸿蒙原生应用，每日一言+想法日记+MARKDOWN轻量编辑+待办标记',
     cover: 'https://img.yqamm.top/Website/muyan1.webp',
     url: '#',
-    github: 'https://github.com/yqamm/yq-wz' },
+    github: 'https://github.com/qitinyu/yq-wz' },
 
   { name: 'MuLi-沐哩',
     tag: 'Mulimuli',
     desc: '参考Piliplus+bilibili的鸿蒙原生第三方B站播放器',
-    cover: 'https://img.yqamm.top/Website/muli1.webp',
+    cover: 'https://img.yqamm.top/Website/app_logo.webp',
     url: '#',
-    github: 'https://github.com/yqamm/MuLi' },
+    github: 'https://github.com/qitinyu/MuLi' },
     
   { name: '胡桃-手风琴',
     tag: 'HTML+CSS+JS',
     desc: 'HTML+CSS+JS 制作的简易网页',
-    cover: '/hero/htsfq.webp',
-    url: 'https://qitinyu.github.io/hutao-sfq/',
+    cover: 'https://img.yqamm.top/Website/hutao.webp',
+    url: 'https://yqamm.github.io/hutao-sfq/',
     github: 'https://github.com/yqamm/hutao-sfq' },
 ];
